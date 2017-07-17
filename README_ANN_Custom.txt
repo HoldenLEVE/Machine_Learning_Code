@@ -1,5 +1,6 @@
 **************************************
 Customizable Artificial Neural Network
+  Feed-Forward and Back-Propagation
 **************************************
 The artificial neural network:
 	- 1 Input layer
@@ -13,4 +14,5 @@ There is only 1 output neuron.
 
 The network will go through feed-forward and back-propagation 300
 times to show that it is learning to recognize the pattern given.
-For simplicity sake, the network will recognize 1 pattern at a time   
+For simplicity sake, the network will only recognize 1 pattern 
+at a time.   
